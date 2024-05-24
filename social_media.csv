@@ -1,0 +1,201 @@
+id,age,gender,time_spent_hour,engagement_score,platform,interests,country,demographics,profession,income,indebt
+35Y1,51,non-binary,2,7.97,YouTube,Travel,Japan,sub_urban,Plumber,266106,FALSE
+34M2,63,male,3,1.11,Instagram,Camping,Germany,urban,Cashier,184730,FALSE
+42G3,46,female,3,6.24,YouTube,Sports,Philippines,rural,CTO,169192,FALSE
+49I4,29,female,2,7.91,Instagram,Lifestyle,Morocco,sub_urban,Data Scientist,60621,FALSE
+91D5,30,male,2,14.47,YouTube,Camping,Portugal,rural,Banker,200547,FALSE
+98Z6,34,female,2,2.54,Instagram,Sports,Spain,rural,Banker,169049,FALSE
+21V7,59,non-binary,5,4.77,Instagram,Hiking,Sweden,rural,Plumber,173817,FALSE
+58V8,20,non-binary,4,33.76,Facebook,Camping,Mexico,sub_urban,Student,2569,TRUE
+36L9,37,non-binary,1,3.28,YouTube,Lifestyle,China,rural,Operator,164381,TRUE
+28S10,68,female,4,15.35,Facebook,Sports,Sweden,sub_urban,CTO,363516,FALSE
+70M11,40,non-binary,2,14.67,Facebook,Hiking,Iran,urban,FIFO,201282,TRUE
+52C12,25,female,1,6.32,YouTube,Lifestyle,Afghanistan,rural,Banker,105719,FALSE
+17E13,38,non-binary,1,6.09,Facebook,Lifestyle,France,urban,Software Engineer,179971,FALSE
+93I14,60,female,5,11.12,YouTube,Camping,Mexico,rural,Plumber,277316,FALSE
+71E15,58,non-binary,4,7.03,YouTube,Sports,Philippines,sub_urban,CTO,208187,FALSE
+53G16,39,male,2,2.36,Facebook,Travel,Japan,urban,FIFO,168477,TRUE
+32S17,42,male,3,17.34,Instagram,Sports,Venezuela,rural,Software Engineer,206389,TRUE
+99U18,16,female,8,53.24,YouTube,Lifestyle,Japan,urban,Student,7487,FALSE
+26K19,67,male,3,6.39,YouTube,Hiking,Israel,urban,FIFO,396854,TRUE
+55W20,39,male,1,0.05,Facebook,Sports,Norway,rural,Operator,197520,FALSE
+57W21,17,male,4,30.37,YouTube,Sports,Australia,urban,Student,4211,FALSE
+69L22,52,female,3,14.34,Instagram,Sports,Russia,sub_urban,FIFO,290456,FALSE
+23T23,40,male,1,4.4,Facebook,Hiking,Thailand,urban,Data Scientist,166178,TRUE
+23D24,24,non-binary,1,1.3,Facebook,Lifestyle,Peru,rural,Software Engineer,69457,TRUE
+33C25,24,female,4,25.27,Instagram,Camping,Switzerland,sub_urban,Operator,95386,FALSE
+44E26,17,female,8,33.59,YouTube,Travel,Saudi Arabia,rural,Student,8813,TRUE
+66K27,19,female,5,48.98,YouTube,Camping,Israel,rural,Student,8435,TRUE
+79E28,25,male,4,25.3,Facebook,Hiking,South Korea,rural,Software Engineer,87203,FALSE
+95B29,46,male,2,4.36,Instagram,Lifestyle,Portugal,rural,Software Engineer,199177,FALSE
+91O30,49,non-binary,3,20.53,YouTube,Sports,South Africa,rural,Operator,181766,TRUE
+42K31,63,female,4,10.95,Facebook,Lifestyle,Portugal,sub_urban,Software Engineer,173728,FALSE
+17H32,40,male,1,0.12,Facebook,Hiking,Venezuela,urban,FIFO,184948,TRUE
+22G33,16,male,4,4.17,YouTube,Camping,Argentina,sub_urban,Student,9875,TRUE
+74B34,17,male,10,78.32,YouTube,Sports,India,sub_urban,Student,3017,TRUE
+39W35,40,male,2,4.99,Facebook,Hiking,Vietnam,rural,FIFO,160243,TRUE
+97N36,60,male,2,7.01,Instagram,Camping,Iran,sub_urban,Data Scientist,206464,FALSE
+30K37,39,non-binary,3,0.37,Instagram,Sports,Finland,rural,Operator,201536,FALSE
+91E38,32,female,2,10.37,YouTube,Travel,Afghanistan,rural,CTO,171663,TRUE
+67U39,68,non-binary,3,4.04,Facebook,Hiking,United Arab Emirates,sub_urban,Operator,405530,FALSE
+13M40,67,female,4,10.78,Facebook,Camping,Bangladesh,urban,CTO,258607,FALSE
+91G41,16,male,6,28.98,Facebook,Sports,Turkey,urban,Student,8643,FALSE
+2Z42,22,male,2,6.32,YouTube,Sports,Sweden,rural,Data Scientist,66516,FALSE
+8C43,58,female,3,1.19,Facebook,Lifestyle,Argentina,rural,Operator,323420,FALSE
+49A44,27,female,4,17.27,Facebook,Travel,Vietnam,urban,CTO,54431,FALSE
+11Y45,68,non-binary,4,13.86,Instagram,Hiking,South Korea,sub_urban,Operator,250663,TRUE
+38S46,32,male,2,9.15,Instagram,Hiking,Brazil,sub_urban,Operator,205836,FALSE
+99Z47,68,non-binary,4,13,Instagram,Hiking,Saudi Arabia,urban,CTO,373913,TRUE
+74S48,40,non-binary,2,8.6,YouTube,Hiking,New Zealand,rural,Software Engineer,175409,TRUE
+54D49,43,non-binary,2,4.44,Instagram,Hiking,Israel,urban,Cashier,169737,FALSE
+18X50,17,non-binary,6,16.5,YouTube,Camping,Argentina,sub_urban,Student,7049,FALSE
+74Y51,31,male,2,12.01,Instagram,Lifestyle,Malaysia,rural,Data Scientist,202016,TRUE
+34G52,65,non-binary,1,0.2,Facebook,Lifestyle,China,urban,Operator,313560,TRUE
+89Y53,65,male,2,0.89,YouTube,Travel,Indonesia,urban,Banker,262009,FALSE
+72I54,29,non-binary,1,1.78,Instagram,Hiking,South Africa,rural,FIFO,108763,TRUE
+11S55,25,non-binary,2,9.1,Instagram,Sports,China,sub_urban,Operator,89259,FALSE
+42Q56,61,non-binary,4,8.35,Instagram,Lifestyle,Peru,rural,Operator,253459,FALSE
+31X57,22,non-binary,1,6.19,Instagram,Travel,South Korea,urban,Operator,101495,FALSE
+78R58,46,male,1,8.49,YouTube,Hiking,Nigeria,urban,FIFO,166183,TRUE
+63G59,55,male,3,7.1,Instagram,Camping,Switzerland,sub_urban,FIFO,331132,FALSE
+39U60,18,female,8,2.56,Facebook,Camping,India,urban,Student,664,FALSE
+41F61,24,male,2,1.98,Facebook,Lifestyle,France,urban,Operator,72032,TRUE
+25Z62,16,female,10,20.45,Facebook,Camping,Chile,rural,Student,8898,TRUE
+48G63,32,female,2,12.79,Facebook,Camping,South Africa,sub_urban,Software Engineer,190498,FALSE
+21L64,65,female,5,12.66,Instagram,Travel,United Arab Emirates,sub_urban,Software Engineer,387365,TRUE
+56R65,39,non-binary,1,8.82,YouTube,Camping,Australia,sub_urban,Banker,178588,TRUE
+62Z66,70,male,1,2.71,YouTube,Camping,Germany,rural,Cashier,334779,FALSE
+9B67,26,female,1,1.69,Instagram,Hiking,Belgium,urban,Operator,81217,TRUE
+76H68,28,male,3,15.73,Facebook,Travel,Denmark,sub_urban,Plumber,94917,FALSE
+16B69,61,non-binary,2,9.4,YouTube,Travel,Malaysia,rural,FIFO,403340,TRUE
+50X70,34,male,1,4.16,YouTube,Hiking,Pakistan,sub_urban,Software Engineer,205165,TRUE
+68O71,15,female,5,20.32,YouTube,Travel,Finland,urban,Student,9022,FALSE
+27B72,64,female,4,1.13,YouTube,Sports,Denmark,rural,Banker,307470,TRUE
+13N73,57,male,2,0.46,YouTube,Lifestyle,India,rural,FIFO,288747,TRUE
+47J74,27,female,4,11.19,Facebook,Camping,Indonesia,sub_urban,Software Engineer,91614,FALSE
+42H75,40,female,3,12.47,Facebook,Lifestyle,Sweden,sub_urban,Software Engineer,162344,FALSE
+76H76,55,non-binary,1,2.23,Instagram,Sports,France,urban,Software Engineer,219544,FALSE
+26F77,52,female,4,18.9,Facebook,Sports,Sweden,urban,FIFO,314156,FALSE
+86K78,54,female,1,1.71,Instagram,Camping,United Kingdom,sub_urban,CTO,287435,TRUE
+92W79,62,male,3,12.6,Instagram,Camping,France,urban,CTO,328784,TRUE
+32G80,50,non-binary,3,0.61,YouTube,Camping,Belgium,sub_urban,Plumber,245637,TRUE
+71V81,68,non-binary,4,12.7,Instagram,Hiking,Russia,rural,Software Engineer,362569,FALSE
+81S82,43,male,1,8.37,Instagram,Hiking,Afghanistan,rural,Software Engineer,200571,FALSE
+26B83,56,non-binary,3,6.61,YouTube,Sports,Colombia,rural,Banker,337996,TRUE
+55H84,44,non-binary,3,14.39,Facebook,Sports,India,sub_urban,Data Scientist,180948,FALSE
+80Y85,38,male,1,2.42,Instagram,Travel,United States,rural,Software Engineer,203028,TRUE
+20Y86,22,non-binary,2,11.58,Facebook,Lifestyle,United States,rural,Software Engineer,59114,FALSE
+60E87,69,non-binary,3,9.64,Facebook,Sports,Brazil,rural,Data Scientist,213829,TRUE
+67T88,57,female,3,10.23,Facebook,Hiking,Bangladesh,rural,Data Scientist,255394,TRUE
+57K89,58,non-binary,5,19.49,Instagram,Camping,Israel,rural,FIFO,216061,TRUE
+68H90,25,non-binary,1,1.27,Instagram,Hiking,Germany,rural,Plumber,68340,TRUE
+9O91,68,non-binary,1,1.09,Facebook,Travel,Brazil,sub_urban,Data Scientist,224340,TRUE
+3A92,38,male,3,8.28,YouTube,Hiking,Cambodia,sub_urban,Data Scientist,198718,TRUE
+48S93,31,female,3,20.01,Instagram,Camping,Egypt,urban,Operator,193485,FALSE
+99G94,33,non-binary,1,7.99,Facebook,Travel,Spain,rural,Plumber,188128,TRUE
+82E95,60,male,1,2.06,Instagram,Camping,Philippines,sub_urban,Plumber,231985,FALSE
+46W96,48,male,1,2.77,Instagram,Camping,Japan,urban,Plumber,204826,FALSE
+96M97,46,non-binary,1,1.34,Facebook,Hiking,Netherlands,urban,Cashier,193945,TRUE
+63O98,36,non-binary,3,4.24,YouTube,Camping,Denmark,urban,Banker,177875,FALSE
+76C99,37,non-binary,2,15.48,YouTube,Lifestyle,United States,urban,Banker,170371,TRUE
+27N100,70,female,4,18.48,Instagram,Lifestyle,Nigeria,rural,Banker,243575,FALSE
+29D101,45,non-binary,2,13.22,Facebook,Travel,South Africa,rural,CTO,189457,TRUE
+71C102,44,non-binary,3,18.15,Facebook,Camping,South Africa,rural,Software Engineer,175977,TRUE
+6M103,31,non-binary,3,9.57,Facebook,Lifestyle,Germany,rural,FIFO,162163,TRUE
+41M104,46,female,3,17.6,Facebook,Camping,Afghanistan,rural,Data Scientist,163567,FALSE
+47H105,41,non-binary,3,12.77,Facebook,Travel,Belgium,rural,Operator,176873,TRUE
+67H106,35,female,3,5.79,YouTube,Travel,Finland,rural,Software Engineer,184865,FALSE
+47T107,45,male,2,7.69,Instagram,Travel,Philippines,rural,CTO,209787,TRUE
+72D108,36,male,1,7.54,Facebook,Camping,Vietnam,urban,Data Scientist,193603,FALSE
+7C109,59,non-binary,2,1.32,Instagram,Travel,Venezuela,sub_urban,FIFO,193925,FALSE
+74Q110,17,female,8,58.89,Instagram,Hiking,Australia,rural,Student,1047,TRUE
+64A111,70,non-binary,5,7.12,YouTube,Lifestyle,Japan,urban,Cashier,231513,FALSE
+98R112,58,male,5,10.95,YouTube,Sports,United Kingdom,rural,CTO,398610,FALSE
+81M113,24,male,2,11.16,Facebook,Lifestyle,Pakistan,sub_urban,Banker,79979,FALSE
+50G114,57,female,2,5.95,Facebook,Hiking,Australia,rural,Banker,325142,TRUE
+99J115,31,non-binary,2,0.25,Facebook,Camping,South Africa,urban,FIFO,208495,FALSE
+17O116,63,non-binary,2,8.1,YouTube,Hiking,Argentina,urban,FIFO,330408,FALSE
+94Y117,69,non-binary,5,2.77,YouTube,Travel,Saudi Arabia,urban,Plumber,284946,TRUE
+95J118,55,non-binary,2,5.12,Facebook,Hiking,Pakistan,rural,Plumber,238009,FALSE
+27B119,28,male,4,28.03,YouTube,Camping,Philippines,rural,Software Engineer,50827,TRUE
+86F120,18,female,4,6.24,Instagram,Travel,Argentina,urban,Student,4279,TRUE
+2W121,39,male,3,20.07,YouTube,Travel,Turkey,rural,Software Engineer,203455,TRUE
+2M122,38,non-binary,2,7.35,YouTube,Travel,New Zealand,urban,Operator,169621,FALSE
+76Z123,64,non-binary,1,3.12,Instagram,Camping,Russia,sub_urban,Data Scientist,235821,FALSE
+87V124,20,female,7,24.23,YouTube,Sports,Brazil,sub_urban,Student,4258,FALSE
+64O125,54,non-binary,2,5.04,Instagram,Lifestyle,Japan,rural,Software Engineer,385403,FALSE
+93P126,50,female,3,11.5,Instagram,Lifestyle,Saudi Arabia,rural,Banker,182149,FALSE
+68E127,54,male,2,8,Instagram,Travel,Nigeria,rural,CTO,248961,FALSE
+96Y128,19,male,9,53.8,Facebook,Hiking,Netherlands,urban,Student,5182,FALSE
+29D129,69,male,3,15,Facebook,Camping,Chile,sub_urban,CTO,233575,TRUE
+98Y130,18,female,6,6.1,YouTube,Travel,Argentina,urban,Student,2841,FALSE
+79V131,55,non-binary,2,4.53,Instagram,Sports,Norway,rural,FIFO,187138,TRUE
+54Y132,48,female,1,7.49,Instagram,Lifestyle,Saudi Arabia,rural,FIFO,183290,FALSE
+5Y133,44,male,3,10.33,YouTube,Hiking,Belgium,sub_urban,Cashier,191785,FALSE
+42N134,35,non-binary,1,5.86,Facebook,Travel,Peru,urban,Software Engineer,185751,TRUE
+65D135,41,male,3,24.87,Facebook,Travel,Spain,sub_urban,Cashier,174442,TRUE
+89T136,19,female,10,54.22,Instagram,Lifestyle,Indonesia,sub_urban,Student,7912,FALSE
+25T137,31,female,3,4.82,YouTube,Camping,Italy,sub_urban,FIFO,168655,FALSE
+72B138,44,female,1,2.64,Instagram,Travel,Russia,sub_urban,CTO,163339,FALSE
+96V139,69,female,1,1.63,Instagram,Hiking,United States,rural,Operator,327334,FALSE
+42L140,67,male,4,4.21,YouTube,Sports,India,sub_urban,Software Engineer,240579,TRUE
+52X141,59,non-binary,2,1.32,YouTube,Hiking,Australia,urban,CTO,249293,TRUE
+37L142,28,female,1,1.75,Instagram,Lifestyle,Israel,rural,Software Engineer,64912,FALSE
+56A143,27,male,1,4.16,Facebook,Sports,Denmark,sub_urban,Plumber,61630,TRUE
+15V144,44,non-binary,3,13.26,YouTube,Travel,Philippines,urban,Operator,166641,FALSE
+8I145,39,male,2,12.83,YouTube,Hiking,France,rural,CTO,183523,TRUE
+78S146,42,non-binary,1,2,YouTube,Hiking,Russia,sub_urban,FIFO,187749,FALSE
+53Z147,60,female,4,12.36,Instagram,Sports,Australia,sub_urban,FIFO,254423,FALSE
+23G148,23,female,4,31.57,Instagram,Travel,Sweden,sub_urban,Data Scientist,79772,TRUE
+8H149,51,male,4,7.26,YouTube,Sports,Malaysia,sub_urban,Operator,364265,FALSE
+59L150,46,female,1,4.67,YouTube,Hiking,Portugal,sub_urban,Banker,202973,TRUE
+65V151,69,non-binary,5,6.71,Instagram,Hiking,Mexico,urban,Software Engineer,375571,TRUE
+18N152,31,male,2,12.41,Facebook,Lifestyle,Morocco,rural,Data Scientist,184806,TRUE
+98Z153,38,non-binary,1,8.56,Facebook,Sports,Denmark,sub_urban,Cashier,206663,FALSE
+62X154,40,non-binary,3,16.27,Facebook,Sports,Cambodia,rural,Operator,197539,TRUE
+95Q155,16,male,8,27.95,Instagram,Lifestyle,Morocco,urban,Student,8396,TRUE
+58P156,20,male,8,74.83,Facebook,Travel,Thailand,sub_urban,Student,8079,FALSE
+36P157,52,female,2,3.9,YouTube,Camping,Iran,urban,Banker,192583,FALSE
+1F158,17,female,10,37.81,YouTube,Travel,Singapore,urban,Student,9923,FALSE
+26D159,47,male,3,15.42,Instagram,Sports,Sweden,urban,Data Scientist,201374,FALSE
+10J160,32,non-binary,1,4.83,Instagram,Travel,Turkey,rural,Operator,191539,TRUE
+51X161,29,male,2,15.15,YouTube,Travel,Pakistan,sub_urban,Data Scientist,60733,TRUE
+57I162,46,non-binary,1,2.35,YouTube,Lifestyle,France,urban,Software Engineer,170115,FALSE
+18S163,33,non-binary,3,23.28,Instagram,Hiking,Indonesia,sub_urban,CTO,185328,FALSE
+39X164,49,male,3,23.09,Facebook,Lifestyle,Turkey,rural,Cashier,176125,TRUE
+91E165,42,female,2,3.92,Instagram,Camping,United Arab Emirates,sub_urban,CTO,190681,TRUE
+81O166,29,non-binary,1,0.67,YouTube,Hiking,Cambodia,rural,Banker,109138,TRUE
+47B167,69,male,5,24.08,Instagram,Camping,Switzerland,sub_urban,Software Engineer,246768,FALSE
+61H168,63,male,1,4.46,Facebook,Travel,Canada,rural,Software Engineer,222356,TRUE
+25Y169,21,female,1,4.42,Instagram,Lifestyle,Switzerland,urban,Data Scientist,104032,TRUE
+60E170,61,non-binary,4,15.73,Facebook,Hiking,Nigeria,urban,Software Engineer,189688,FALSE
+72Q171,52,female,1,0.59,YouTube,Camping,United Kingdom,rural,Data Scientist,296783,FALSE
+70D172,24,male,4,26.2,Facebook,Sports,Italy,sub_urban,FIFO,95372,TRUE
+39F173,64,non-binary,1,1.5,Facebook,Travel,Sweden,sub_urban,CTO,283956,TRUE
+98P174,25,female,4,11.52,Instagram,Hiking,New Zealand,urban,FIFO,63835,TRUE
+3I175,51,non-binary,2,4.08,Instagram,Hiking,Bangladesh,sub_urban,Banker,271538,FALSE
+68Y176,50,male,3,11.22,YouTube,Travel,Thailand,sub_urban,FIFO,386872,TRUE
+7B177,20,female,9,75.71,Facebook,Travel,Venezuela,sub_urban,Student,1442,FALSE
+22R178,34,non-binary,2,9.45,Instagram,Sports,Argentina,urban,FIFO,192048,FALSE
+6B179,36,male,1,3.8,Instagram,Hiking,Singapore,rural,FIFO,175195,TRUE
+17F180,70,non-binary,2,2.51,Facebook,Travel,Bangladesh,rural,Plumber,200332,FALSE
+59T181,52,non-binary,4,8.95,YouTube,Travel,Singapore,sub_urban,FIFO,367868,TRUE
+1X182,69,female,2,9.76,YouTube,Hiking,Iran,urban,Banker,329836,FALSE
+29D183,61,non-binary,3,10.83,Instagram,Sports,Colombia,rural,Data Scientist,388144,TRUE
+64F184,53,non-binary,4,0.06,YouTube,Camping,China,sub_urban,Data Scientist,259004,FALSE
+85Z185,25,non-binary,4,22.11,YouTube,Hiking,Turkey,rural,Plumber,63199,TRUE
+38I186,50,non-binary,3,6.69,Instagram,Camping,Iran,urban,FIFO,218385,TRUE
+65V187,65,non-binary,4,4.25,YouTube,Hiking,India,urban,Banker,229684,FALSE
+21X188,28,non-binary,1,2.98,YouTube,Camping,Australia,sub_urban,Data Scientist,94440,FALSE
+18V189,34,non-binary,3,0.68,Facebook,Lifestyle,Malaysia,rural,CTO,162485,FALSE
+9W190,15,non-binary,10,87.28,Instagram,Hiking,Bangladesh,sub_urban,Student,1201,TRUE
+98U191,61,male,5,22.66,YouTube,Sports,Finland,urban,CTO,221287,FALSE
+27C192,43,female,3,19.55,Instagram,Travel,Canada,sub_urban,Plumber,167723,TRUE
+74C193,67,male,2,4.55,YouTube,Lifestyle,Colombia,urban,Plumber,402840,FALSE
+58L194,37,female,3,18.33,YouTube,Camping,Germany,rural,Software Engineer,181287,TRUE
+27K195,70,non-binary,5,6.15,Instagram,Travel,Cambodia,sub_urban,Operator,302773,FALSE
+73T196,70,female,1,4.53,Facebook,Travel,Egypt,urban,Cashier,250568,TRUE
+80C197,24,male,2,9.04,Instagram,Hiking,Chile,sub_urban,CTO,87420,FALSE
+66C198,64,female,2,9.84,Instagram,Lifestyle,Afghanistan,rural,CTO,267584,FALSE
+31Q199,58,non-binary,4,18.41,YouTube,Travel,Argentina,sub_urban,Cashier,378128,TRUE
+48D200,58,non-binary,3,14.27,Facebook,Travel,Venezuela,rural,Operator,307512,FALSE
