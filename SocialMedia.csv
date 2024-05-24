@@ -1,0 +1,201 @@
+id,age,gender,time_spent_hour,platform,interests,Country,demographics,profession,income,indebt
+1,50,male,1,Instagram,Sports,New Zealand,Urban,Software Engineer,280931,TRUE
+2,48,male,3,Instagram,Sports,Vietnam,Urban,Plumber,28093,TRUE
+3,47,female,1,Facebook,Travel,New Zealand,Urban,Librarian,191777,TRUE
+4,64,male,4,Instagram,Sports,Australia,Sub_Urban,CEO,259239,FALSE
+5,24,male,4,Instagram,Travel,Yemen,Urban,Plumber,78098,FALSE
+6,52,male,4,Instagram,Lifestlye,Australia,Urban,Software Engineer,235163,FALSE
+7,44,male,3,Facebook,Travel,Nigeria,Urban,Plumber,172063,TRUE
+8,61,male,1,YouTube,Sports,Mexico,Urban,Plumber,200620,TRUE
+9,56,male,2,Instagram,Sports,Mexico,Urban,Teacher,30000,TRUE
+10,50,non-binary,2,YouTube,Lifestlye,Australia,Sub_Urban,FIFO,364256,FALSE
+11,18,male,9,Instagram,Sports,Australia,Sub_Urban,Student,4708,TRUE
+12,37,female,3,YouTube,Lifestlye,New Zealand,Urban,Teacher,177388,TRUE
+13,49,non-binary,3,Facebook,Sports,Nigeria,Sub_Urban,Software Engineer,179501,FALSE
+14,28,female,2,Instagram,Lifestlye,Azerbaijan,Urban,Shopkeeper,97852,FALSE
+15,19,female,7,YouTube,Travel,Yemen,Rural,Student,8034,TRUE
+16,25,male,4,Facebook,Sports,New Zealand,Sub_Urban,CEO,101123,TRUE
+17,47,male,2,Instagram,Travel,Nigeria,Sub_Urban,Librarian,18719,TRUE
+18,57,female,2,Instagram,Sports,New Zealand,Rural,FIFO,207545,FALSE
+19,40,female,3,Facebook,Sports,Bolivia,Sub_Urban,Agent,202030,FALSE
+20,62,male,1,Instagram,Sports,Russia,Rural,Data Scientist,286525,FALSE
+21,50,non-binary,1,YouTube,Travel,Australia,Urban,FIFO,322228,TRUE
+22,22,male,2,YouTube,Travel,Yemen,Rural,Teacher,99337,TRUE
+23,59,male,5,Facebook,Travel,Australia,Rural,Software Engineer,383009,TRUE
+24,45,male,3,Instagram,Lifestlye,Australia,Urban,FIFO,195866,TRUE
+25,34,female,1,Facebook,Lifestlye,Australia,Sub_Urban,Data Scientist,202174,TRUE
+26,59,male,5,YouTube,Sports,Philippines,Sub_Urban,Data Scientist,318249,FALSE
+27,25,male,2,Facebook,Sports,Ireland,Urban,Plumber,86150,FALSE
+28,21,male,1,Facebook,Lifestlye,Yemen,Rural,Freelancer,407311,TRUE
+29,61,female,3,Instagram,Lifestlye,Nigeria,Urban,Data Scientist,235807,FALSE
+30,23,female,2,YouTube,Travel,New Zealand,Sub_Urban,FIFO,104596,TRUE
+31,37,male,1,Instagram,Travel,Nigeria,Rural,FIFO,196932,FALSE
+32,29,male,2,YouTube,Lifestlye,Malaysia,Urban,Software Engineer,107071,TRUE
+33,23,female,3,Instagram,Lifestlye,Yemen,Rural,Software Engineer,78335,TRUE
+34,26,female,4,Instagram,Sports,Australia,Sub_Urban,Librarian,59209,TRUE
+35,55,female,1,Instagram,Sports,Australia,Sub_Urban,Data Scientist,409762,TRUE
+36,29,female,2,Instagram,Sports,Australia,Urban,Software Engineer,107808,TRUE
+37,43,female,2,Instagram,Lifestlye,Australia,Urban,FIFO,173690,TRUE
+38,49,male,1,Instagram,Travel,Nigeria,Rural,CEO,186797,FALSE
+39,47,female,2,Instagram,Travel,Australia,Urban,Teacher,193379,TRUE
+40,64,female,4,YouTube,Lifestlye,Bangladesh,Rural,Rikshapular,1000,TRUE
+41,33,male,1,YouTube,Travel,Colombia,Sub_Urban,Criketer,201196,FALSE
+42,20,male,7,YouTube,Camping,Yemen,Sub_Urban,Student,6396,FALSE
+43,25,male,3,Facebook,Sports,Yemen,Sub_Urban,FIFO,63735,FALSE
+44,36,male,3,Instagram,Travel,New Zealand,Urban,Data Scientist,199510,TRUE
+45,46,female,1,Instagram,Lifestlye,Iran,Urban,Librarian,17097,FALSE
+46,49,female,2,Instagram,Lifestlye,Australia,Sub_Urban,CEO,170032,FALSE
+47,35,female,1,YouTube,Lifestlye,Bulgaria,Sub_Urban,Consultant,181933,FALSE
+48,44,female,2,Facebook,Lifestlye,New Zealand,Urban,CTO,184110,FALSE
+49,18,female,4,YouTube,Lifestlye,Yemen,Rural,Student,1778,FALSE
+50,22,female,3,Facebook,Sports,New Zealand,Urban,Librarian,95793,TRUE
+51,46,non-binary,1,Facebook,Sports,Australia,Urban,FIFO,165020,TRUE
+52,23,female,1,YouTube,Lifestlye,Australia,Urban,FIFO,101225,FALSE
+53,50,male,1,Instagram,Sports,New Zealand,Rural,Teacher,237515,TRUE
+54,32,male,3,YouTube,Sports,Benin,Sub_Urban,Teacher,169751,FALSE
+55,46,male,3,Instagram,Sports,New Zealand,Sub_Urban,Librarian,100981,FALSE
+56,44,male,1,Instagram,Travel,Ireland,Urban,Software Engineer,195330,FALSE
+57,21,male,5,Facebook,Lifestlye,New Zealand,Urban,Sales person,308831,FALSE
+58,23,female,4,YouTube,Sports,Australia,Rural,Electrician,67435,FALSE
+59,49,non-binary,3,YouTube,Lifestlye,Australia,Sub_Urban,Teacher,186697,TRUE
+60,42,male,3,Facebook,Sports,Australia,Rural,psychiatrist,196981,TRUE
+61,29,female,4,Instagram,Sports,Australia,Rural,Librarian,83486,TRUE
+62,60,female,4,Instagram,Travel,Nigeria,Sub_Urban,Teacher,318014,FALSE
+63,25,female,3,Instagram,Lifestlye,Pakistan,Urban,Teacher,75724,TRUE
+64,33,female,2,YouTube,Lifestlye,Bahrain,Urban,Librarian,188104,FALSE
+65,21,female,1,Facebook,Travel,Ireland,Rural,Software Engineer,310609,FALSE
+66,49,male,1,Instagram,Travel,New Zealand,Rural,Teacher,193580,TRUE
+67,61,male,3,Instagram,Sports,New Zealand,Sub_Urban,Teacher,374066,FALSE
+68,26,male,4,YouTube,Lifestlye,Armenia,Urban,Software Engineer,73124,TRUE
+69,20,female,3,Instagram,Travel,Yemen,Sub_Urban,Student,2060,FALSE
+70,23,male,1,Instagram,Travel,Yemen,Sub_Urban,Librarian,66881,FALSE
+71,49,female,1,Instagram,Sports,New Zealand,Urban,Teacher,188323,FALSE
+72,39,male,1,Instagram,Lifestlye,Nigeria,Rural,Librarian,175853,FALSE
+73,64,female,5,Instagram,Travel,Nigeria,Sub_Urban,Software Engineer,399788,FALSE
+74,23,male,1,YouTube,Travel,Yemen,Rural,Teacher,70583,TRUE
+75,32,male,3,Instagram,Lifestlye,Belgium,Urban,Software Engineer,199222,FALSE
+76,50,non-binary,4,YouTube,Travel,South Africa,Sub_Urban,Librarian,180443,TRUE
+77,36,female,1,Instagram,Sports,Sri lanka,Sub_Urban,CTO,201782,FALSE
+78,50,female,4,Instagram,Sports,New Zealand,Rural,Data Scientist,295171,TRUE
+79,49,non-binary,1,Instagram,Lifestlye,Nigeria,Urban,Plumber,177145,TRUE
+80,56,male,3,Facebook,Sports,New Zealand,Rural,Shopkeeper,264549,TRUE
+81,20,female,4,Instagram,Sports,Yemen,Rural,Student,4890,FALSE
+82,41,male,2,Instagram,Travel,New Zealand,Sub_Urban,Teacher,189678,FALSE
+83,36,male,2,Facebook,Lifestlye,Australia,Rural,Data Scientist,169249,FALSE
+84,22,female,4,Facebook,Travel,Australia,Rural,Teacher,79529,FALSE
+85,20,male,5,YouTube,Travel,New Zealand,Urban,Student,8345,TRUE
+86,20,male,10,YouTube,Sports,Ireland,Urban,Student,2719,FALSE
+87,41,female,1,Facebook,Lifestlye,Nigeria,Rural,Investor,202238,FALSE
+88,23,female,3,YouTube,Sports,Australia,Sub_Urban,Teacher,69018,FALSE
+89,32,female,3,YouTube,Sports,Colombia,Rural,Footballer,197942,FALSE
+90,50,female,1,Facebook,Sports,Australia,Sub_Urban,Librarian,171281,FALSE
+91,23,male,2,Instagram,Travel,New Zealand,Rural,Sales person,68181,FALSE
+92,41,male,1,YouTube,Lifestlye,Australia,Urban,FIFO,199109,TRUE
+93,22,female,3,Facebook,Travel,Ireland,Sub_Urban,Sales person,48181,FALSE
+94,50,male,3,YouTube,Sports,Nigeria,Urban,FIFO,190257,FALSE
+95,49,female,1,YouTube,Lifestlye,Australia,Urban,Teacher,172144,FALSE
+96,43,female,2,YouTube,Lifestlye,Nigeria,Sub_Urban,CTO,163206,FALSE
+97,31,male,3,Instagram,Travel,Andorra,Urban,Librarian,198412,TRUE
+98,64,male,4,Instagram,Lifestlye,New Zealand,Urban,CTO,397806,TRUE
+99,23,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Plumber,46840,FALSE
+100,50,non-binary,4,YouTube,Travel,Nigeria,Sub_Urban,CTO,259576,TRUE
+101,22,female,3,Instagram,Sports,Australia,Sub_Urban,FIFO,59042,FALSE
+102,42,male,3,Instagram,Lifestlye,Nepal,Sub_Urban,Sherpa,177018,FALSE
+103,49,male,2,Instagram,Sports,New Zealand,Rural,Teacher,201552,FALSE
+104,49,female,1,Facebook,Travel,Nigeria,Urban,CEO,206675,TRUE
+105,22,male,3,Facebook,Travel,Australia,Urban,Teacher,80296,TRUE
+106,50,male,2,Instagram,Lifestlye,New Zealand,Urban,Plumber,361373,FALSE
+107,50,female,2,Facebook,Sports,Australia,Urban,FIFO,291823,FALSE
+108,22,female,4,YouTube,Lifestlye,Yemen,Sub_Urban,Teacher,84656,TRUE
+109,50,female,1,Facebook,Travel,New Zealand,Urban,FIFO,216757,FALSE
+110,49,male,1,Instagram,Travel,Australia,Urban,CTO,208737,FALSE
+111,50,non-binary,5,YouTube,Lifestlye,Australia,Rural,Teacher,396078,FALSE
+112,49,female,2,YouTube,Sports,Australia,Sub_Urban,Software Engineer,163024,TRUE
+113,49,male,3,YouTube,Travel,Nigeria,Sub_Urban,CEO,202136,TRUE
+114,50,female,2,Facebook,Travel,New Zealand,Urban,Data Scientist,387571,TRUE
+115,19,female,6,Instagram,Sports,Australia,Urban,Student,6308,TRUE
+116,50,female,3,Facebook,Sports,Australia,Sub_Urban,CEO,228536,FALSE
+117,49,male,2,Instagram,Travel,New Zealand,Rural,Plumber,195131,FALSE
+118,49,male,1,Facebook,Lifestlye,Nigeria,Rural,CEO,164561,TRUE
+119,49,male,1,Instagram,Travel,Nigeria,Rural,Plumber,184023,FALSE
+120,19,male,5,Facebook,Travel,New Zealand,Sub_Urban,Student,4022,FALSE
+121,21,male,4,Instagram,Lifestlye,New Zealand,Rural,Plumber,380852,FALSE
+122,50,male,2,Instagram,Sports,Australia,Sub_Urban,CEO,342262,TRUE
+123,21,female,1,Instagram,Travel,Yemen,Urban,Software Engineer,218430,FALSE
+124,50,female,4,Instagram,Travel,Nigeria,Sub_Urban,Teacher,320424,TRUE
+125,19,male,3,Facebook,Hiking,Bangladesh,Rural,Student,5352,FALSE
+126,19,female,8,YouTube,Sports,Australia,Urban,Student,5785,TRUE
+127,21,female,4,Instagram,Lifestlye,Pakistan,Rural,Plumber,318488,TRUE
+128,50,female,4,YouTube,Sports,Australia,Urban,CEO,237266,FALSE
+129,49,female,2,Instagram,Lifestlye,New Zealand,Urban,Teacher,207823,TRUE
+130,59,female,2,Facebook,Lifestlye,South Africa,Sub_Urban,CEO,259975,TRUE
+131,45,female,2,Facebook,Travel,New Zealand,Urban,Data Scientist,207723,TRUE
+132,21,female,1,YouTube,Sports,Yemen,Rural,Sales person,219582,TRUE
+133,58,male,1,YouTube,Travel,Australia,Rural,Librarian,329295,FALSE
+134,50,female,2,Instagram,Lifestlye,Malaysia,Sub_Urban,Software Engineer,374783,TRUE
+135,21,male,3,Facebook,Sports,New Zealand,Sub_Urban,CEO,230509,TRUE
+136,45,male,3,YouTube,Lifestlye,Australia,Sub_Urban,Librarian,205384,FALSE
+137,58,female,1,Facebook,Lifestlye,New Zealand,Urban,Librarian,328510,FALSE
+138,49,non-binary,1,YouTube,Lifestlye,New Zealand,Rural,Software Engineer,179398,FALSE
+139,50,male,3,Instagram,Lifestlye,Nigeria,Urban,Plumber,353969,FALSE
+140,19,male,9,Facebook,Sports,Yemen,Sub_Urban,Student,1502,FALSE
+141,45,female,2,YouTube,Travel,South Africa,Sub_Urban,Data Scientist,169730,TRUE
+142,21,male,3,Instagram,Travel,Australia,Sub_Urban,Data Scientist,178870,FALSE
+143,45,female,3,YouTube,Sports,Nigeria,Urban,Software Engineer,164789,TRUE
+144,51,female,5,Facebook,Lifestlye,Vietnam,Urban,Data Scientist,21897,FALSE
+145,50,non-binary,1,Facebook,Travel,Nigeria,Rural,Software Engineer,237181,TRUE
+146,48,male,1,YouTube,Sports,Nigeria,Urban,Librarian,16331,FALSE
+147,37,female,1,YouTube,Lifestlye,Austria,Urban,Librarian,180019,TRUE
+148,22,male,1,Facebook,Travel,Australia,Rural,CTO,104581,TRUE
+149,28,male,4,Facebook,Lifestlye,Nigeria,Sub_Urban,Software Engineer,53826,TRUE
+150,45,male,3,Facebook,Lifestlye,Australia,Sub_Urban,Plumber,166855,TRUE
+151,21,female,1,Instagram,Lifestlye,New Zealand,Urban,Plumber,215996,TRUE
+152,53,male,2,YouTube,Sports,New Zealand,Sub_Urban,Teacher,219697,TRUE
+153,50,male,5,Instagram,Travel,Nigeria,Rural,Librarian,315848,TRUE
+154,59,male,4,Facebook,Travel,Bangladesh,Urban,Plumber,232918,TRUE
+155,45,female,3,YouTube,Lifestlye,Australia,Sub_Urban,Librarian,200022,TRUE
+156,58,male,1,YouTube,Travel,Australia,Rural,Software Engineer,340863,FALSE
+157,54,male,2,Instagram,Travel,Iran,Sub_Urban,Teacher,20506,TRUE
+158,62,female,4,Instagram,Lifestlye,Japan,Sub_Urban,CEO,180319,FALSE
+159,50,male,3,Facebook,Lifestlye,Nigeria,Sub_Urban,Data Scientist,391117,TRUE
+160,49,female,1,YouTube,Travel,New Zealand,Rural,FIFO,196684,FALSE
+161,22,male,1,YouTube,Sports,New Zealand,Rural,Plumber,72533,FALSE
+162,22,male,1,Instagram,Sports,Australia,Sub_Urban,Plumber,63705,FALSE
+163,34,female,3,Instagram,Lifestlye,Belarus,Urban,Contractor,162368,FALSE
+164,54,female,1,Instagram,Travel,Australia,Urban,Software Engineer,322587,FALSE
+165,48,female,2,Instagram,Sports,Mexico,Urban,Plumber,18008,FALSE
+166,22,female,4,Facebook,Lifestlye,Bangladesh,Urban,Freelancer,51752,FALSE
+167,51,female,1,Instagram,Sports,New Zealand,Urban,Manager,358188,FALSE
+168,52,female,5,YouTube,Lifestlye,Nigeria,Sub_Urban,Data Scientist,383658,FALSE
+169,63,female,3,Facebook,Sports,China,Rural,Plumber,50000,TRUE
+170,36,male,2,Facebook,Sports,Burundi,Urban,Librarian,166877,FALSE
+171,51,male,2,Instagram,Travel,Australia,Urban,Software Engineer,325693,TRUE
+172,21,female,5,Instagram,Sports,Ireland,Rural,FIFO,193964,FALSE
+173,30,male,2,Instagram,Lifestlye,Austria,Rural,Librarian,188505,TRUE
+174,29,female,1,Instagram,Travel,Australia,Rural,Plumber,85490,TRUE
+175,59,female,3,YouTube,Lifestlye,Turkey,Urban,Software Engineer,243757,FALSE
+176,60,male,2,Facebook,Sports,Nigeria,Rural,FIFO,351042,TRUE
+177,37,male,3,Instagram,Travel,Barbados,Urban,Officer,171826,FALSE
+178,49,non-binary,1,Instagram,Travel,Nigeria,Sub_Urban,CEO,200921,FALSE
+179,53,female,1,Instagram,Travel,Australia,Urban,Data Scientist,334679,TRUE
+180,55,female,3,Facebook,Lifestlye,New Zealand,Rural,FIFO,349862,FALSE
+181,21,female,1,Instagram,Travel,Australia,Rural,Teacher,338487,FALSE
+182,22,male,2,Instagram,Lifestlye,New Zealand,Sub_Urban,Teacher,91629,FALSE
+183,56,female,4,Instagram,Travel,Australia,Urban,Plumber,206015,FALSE
+184,20,female,8,Instagram,Travel,Australia,Sub_Urban,Student,9266,TRUE
+185,53,female,1,YouTube,Travel,Malaysia,Rural,Librarian,272107,TRUE
+186,61,male,3,YouTube,Lifestlye,Australia,Rural,Librarian,364721,FALSE
+187,45,male,2,YouTube,Lifestlye,New Zealand,Rural,FIFO,174872,FALSE
+188,50,non-binary,1,Facebook,Travel,Australia,Sub_Urban,Librarian,204179,TRUE
+189,21,female,5,Instagram,Travel,Yemen,Sub_Urban,FIFO,378456,TRUE
+190,39,female,3,Facebook,Sports,Australia,Urban,Financer,204272,TRUE
+191,42,male,3,YouTube,Sports,New Zealand,Urban,Librarian,160085,TRUE
+192,28,female,3,Instagram,Sports,New Zealand,Sub_Urban,Data Scientist,104166,FALSE
+193,49,male,3,Instagram,Travel,New Zealand,Rural,Software Engineer,205499,TRUE
+194,20,female,3,YouTube,Camping,Yemen,Sub_Urban,Student,7204,TRUE
+195,57,male,5,Facebook,Travel,Australia,Sub_Urban,Librarian,289387,FALSE
+196,50,female,2,YouTube,Lifestlye,Australia,Urban,Data Scientist,312516,TRUE
+197,59,female,4,YouTube,Travel,Australia,Urban,Data Scientist,273785,TRUE
+198,33,female,2,YouTube,Lifestlye,Botswana,Urban,CEO,202372,FALSE
+199,30,female,1,YouTube,Travel,New Zealand,Rural,Software Engineer,169371,TRUE
+200,38,female,2,YouTube,Sports,Bahamas,Sub_Urban,CEO,172412,TRUE
